@@ -1,4 +1,4 @@
-TOKEN = "6667577073:AAEbPCaVyXfChuvoEIR4OUgGpIQHg6DuH6A"
+TOKEN = "YOUR_BOT_TOKEN"
 
 unit = {
     'рубль': 'RUB',
@@ -10,4 +10,4 @@ unit = {
     'тенге': 'KZT'
 }
 
-api_key = '72d857f590bbf00a56167ef0'
+api_key = 'YOUR_API_KEY' #https://app.exchangerate-api.com
